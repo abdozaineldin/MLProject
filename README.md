@@ -5,6 +5,7 @@ Machine Learning course project. It automatically routes consumer complaints to 
 ## Data
 
 Source: [CFPB Consumer Complaint Database](https://www.consumerfinance.gov/data-research/consumer-complaints/) (US government).
+Download: (https://www.kaggle.com/datasets/selener/consumer-complaint-database)
 
 The data files are **not** included in this repo because they are too large.
 Download the CSV, rename it to `rows.csv`, and put it in a folder named `data/`.
